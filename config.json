@@ -1,0 +1,12 @@
+{
+  "name": "Android Emulator",
+  "version": "1.0",
+  "slug": "android_emulator",
+  "description": "Run Android-x86 inside Home Assistant via QEMU + noVNC",
+  "arch": ["amd64"],
+  "startup": "services",
+  "boot": "auto",
+  "ports": {
+    "6080/tcp": 6080
+  }
+}
