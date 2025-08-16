@@ -1,0 +1,13 @@
+{
+  "name": "Android Emulator Add-on Repo",
+  "url": "https://github.com/kaantursucu/androidemu",
+  "maintainers": [
+    {
+      "name": "Kaan Tursucu",
+      "url": "https://github.com/kaantursucu"
+    }
+  ],
+  "addons": [
+    "androidemu"
+  ]
+}
